@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Andrés Montes 👋
 
-<!--
-**afmontes-dev/afmontes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Engineer · Process Automation & RPA · Python · Power Automate**
 
-Here are some ideas to get you started:
+I build systems that eliminate repetitive work, reduce human error, and scale with the organizations that use them. My work sits at the intersection of industrial engineering, automation, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I work with
+
+**Automation & RPA**
+Rocketbot · N8N · Power Automate · UiPath
+
+**Development**
+Python · Excel Advanced · MATLAB
+
+**Design & Engineering**
+Fusion 360 · Blender · Inventor · Ansys
+
+**Currently exploring**
+Machine Learning · AI integration in industrial processes
+
+---
+
+## 📁 Featured Projects
+
+> Projects coming soon. Currently documenting and uploading.
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-afmontes-blue?style=flat&logo=linkedin)](https://linkedin.com/in/andres-felipe-montes-guerrero)
